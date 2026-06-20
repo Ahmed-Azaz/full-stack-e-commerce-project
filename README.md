@@ -1,1 +1,0 @@
-# full-stack-e-commerce-project
